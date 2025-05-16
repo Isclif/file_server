@@ -1,0 +1,1 @@
+USER_API_URL = "http://localhost:8002/api/user_info/"
